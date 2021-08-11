@@ -5,7 +5,5 @@
 (https://www.boostcourse.org/web316)
 
 ## 환경 및 세팅
-*
 
 ## 코드 및 사용법
-*
